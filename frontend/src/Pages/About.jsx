@@ -23,10 +23,9 @@ const About = () => {
                 <span className="highlight">Memories</span>
               </h1>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Phasellus tempus massa vitae elit consectetur, ut convallis
-                massa ultricies. Duis hendrerit turpis quis tincidunt lobortis.
-                Nullam vel faucibus mauris.
+              At VoyageVista, we're passionate about crafting unforgettable travel experiences. 
+              Our expertly curated tours offer a perfect blend of adventure, culture, and relaxation, guided by local experts who bring each destination to life.
+              Join us and discover the world in a way that's uniquely yours.
               </p>
             </div>
           </Col>
