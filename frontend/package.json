@@ -23,13 +23,13 @@
     "slick-carousel": "^1.8.1",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
-    "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build",
-    "serve": "react-scripts start",
-    "build": "react-scripts build",
-    "start": "node server.js"
-  },
+"scripts": {
+  "predeploy": "yarn run build",
+  "deploy": "gh-pages -d build",
+  "serve": "react-scripts start",
+  "build": "react-scripts build",
+  "start": "react-scripts start"
+},
   "eslintConfig": {
     "extends": [
       "react-app",
