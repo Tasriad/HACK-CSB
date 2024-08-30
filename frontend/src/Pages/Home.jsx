@@ -33,9 +33,9 @@ const Home = () => {
                 <span className="highlight">Memories</span>
               </h1>
               <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-              Phasellus tempus massa vitae elit consectetur, ut convallis massa ultricies.
-              Duis hendrerit turpis quis tincidunt lobortis. Nullam vel faucibus mauris. 
+              Tourism is the gateway to the world's wonders, where every journey uncovers new stories and cultures. 
+              It's the thrill of exploring the unknown, making memories that transcend borders. 
+              Travel isn't just about the destination—it's about the experiences that shape us along the way.
               </p>
             </div>
           </Col>
