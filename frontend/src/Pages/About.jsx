@@ -19,14 +19,14 @@ const About = () => {
                 <img src={worldImg} alt="" />
               </div>
               <h1>
-                Traveling Opens The Door To Creating{" "}
+                Traveling opens the path to crafting lasting{" "}
                 <span className="highlight">Memories</span>
               </h1>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Phasellus tempus massa vitae elit consectetur, ut convallis
-                massa ultricies. Duis hendrerit turpis quis tincidunt lobortis.
-                Nullam vel faucibus mauris.
+                Embark on new adventures and create memories that last a lifetime.
+                Explore breathtaking destinations, discover hidden treasures,
+                and immerse yourself in unique experiences.
+                Every journey with us is a step toward unforgettable moments.
               </p>
             </div>
           </Col>
@@ -36,8 +36,8 @@ const About = () => {
         </Row>
       </Container>
     </section>
-    <Contact/>
-    <Newsletter /></>
+      <Contact />
+      <Newsletter /></>
   );
 };
 
